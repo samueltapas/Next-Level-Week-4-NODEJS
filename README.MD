@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/-Node.js-orange?style=for-the-badge" alt="Node.js">
     <img src="https://img.shields.io/badge/-Express-white?style=for-the-badge" alt="Express">
     <p>    
-        Feito com 💜 by <a href="https://www.linkedin.com/in/gustavo-sorati/" target="_blank">Gustavo Sorati</a>
+        Feito com 💜 by <a href="https://www.linkedin.com/in/samuel-ferreira-de-oliveira-costa-0b32b8178/" target="_blank">Samuel Ferreira</a>
     </p>
 </div>
 
